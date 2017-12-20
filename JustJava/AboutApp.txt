@@ -1,0 +1,2 @@
+This app is made as per the Android Training Course
+It orders coffee through email.
